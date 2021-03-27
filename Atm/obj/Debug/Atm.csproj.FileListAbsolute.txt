@@ -1,0 +1,44 @@
+D:\CSharpProjeleri\Atm\Atm\bin\Debug\Atm.exe.config
+D:\CSharpProjeleri\Atm\Atm\bin\Debug\Atm.exe
+D:\CSharpProjeleri\Atm\Atm\bin\Debug\Atm.pdb
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Atm.csprojResolveAssemblyReference.cache
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\MainWindow.baml
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\MainWindow.g.cs
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\App.g.cs
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Atm_MarkupCompile.cache
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Atm.g.resources
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Atm.Properties.Resources.resources
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Atm.csproj.GenerateResource.Cache
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Atm.exe
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Atm.pdb
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Sayfalar\GirisEkrani.baml
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Sayfalar\GirisEkrani.g.cs
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Sayfalar\ParaGondermeEkrani.baml
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Sayfalar\ParaGondermeEkrani.g.cs
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Sayfalar\ParaEklemeEkrani.baml
+D:\CSharpProjeleri\Atm\Atm\obj\Debug\Sayfalar\ParaEklemeEkrani.g.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\bin\Debug\Atm.exe.config
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\bin\Debug\Atm.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\bin\Debug\Atm.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Atm.csprojAssemblyReference.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\MainWindow.baml
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\GirisEkrani.baml
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\ParaEklemeEkrani.baml
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\ParaGondermeEkrani.baml
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\MainWindow.g.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\GirisEkrani.g.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\ParaEklemeEkrani.g.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\ParaGondermeEkrani.g.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\App.g.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Atm_MarkupCompile.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Atm.g.resources
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Atm.Properties.Resources.resources
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Atm.csproj.GenerateResource.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Atm.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Atm.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Atm.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\HesapEklemeEkrani.g.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Atm_MarkupCompile.lref
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\HesapEklemeEkrani.baml
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\HesapSilmeEkrani.g.cs
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\Atm\Atm\obj\Debug\Sayfalar\HesapSilmeEkrani.baml

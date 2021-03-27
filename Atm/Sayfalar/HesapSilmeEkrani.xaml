@@ -1,0 +1,24 @@
+﻿<Page x:Class="Atm.Sayfalar.HesapSilmeEkrani"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Atm.Sayfalar"
+      mc:Ignorable="d" 
+      Height="530" Width="500"
+	Title="GirisEkrani">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" HorizontalAlignment="Center" Orientation="Horizontal">
+            <Label Height="35" Content="Hesap Numaranız :" FontSize="17" FontWeight="Bold"></Label>
+            <TextBox x:Name="hesapNoTxt" Margin="30,36,0,35"  Width="200" Height="30"></TextBox>
+        </StackPanel>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" Orientation="Horizontal">
+            <Button Click="Sil_Btn_Click" Content="Hesap Sil" Height="40" Width="100" Margin="200,30,0,30"></Button>
+        </StackPanel>
+    </Grid>
+</Page>
