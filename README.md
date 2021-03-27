@@ -4,7 +4,8 @@ Ana temanın C# dosya işlemleri(Ekleme-Silme-Güncelleme-Okuma) olduğu basit b
 
 ### Dosya Yapısı
 <hr>
-![image](https://user-images.githubusercontent.com/77530565/112715902-3e1a2f80-8ef4-11eb-99b2-0cc5e55da674.png)
+![4](https://user-images.githubusercontent.com/77530565/112715941-7cafea00-8ef4-11eb-8a48-fa8d8cd6e6d8.png)
+
 
 ### Görüntüler
 <hr>
