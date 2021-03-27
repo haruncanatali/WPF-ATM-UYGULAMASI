@@ -2,6 +2,10 @@
 # WPF ATM UYGULAMASI
 Ana temanın C# dosya işlemleri(Ekleme-Silme-Güncelleme-Okuma) olduğu basit bir WPF Atm uygulaması yapılmıştır. Klasik CRUD işlemleri Siniflar/DataAccess.cs sınıfında bulunmaktadır.
 
+### Dosya Yapısı
+<hr>
+![image](https://user-images.githubusercontent.com/77530565/112715902-3e1a2f80-8ef4-11eb-99b2-0cc5e55da674.png)
+
 ### Görüntüler
 <hr>
 
