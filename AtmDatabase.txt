@@ -1,0 +1,7 @@
+1#Haruncan#Atali#303#1928374651#sifre_1
+2#Bilal#Karaman#500#1928374652#sifre_2
+3#Tamer#Akbulut#503#1928374653#sifre_3
+4#Fatih#Arslan#500#1928374654#sifre_4
+5#Berkay#Kahveci#700#1928374655#sifre_5
+6#Furkan#Ataman#500#1928374656#sifre_6
+7#Samet#Kiren#500#1928374657#sifre_7
