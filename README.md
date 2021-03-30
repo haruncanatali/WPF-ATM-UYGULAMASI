@@ -15,4 +15,5 @@ Ana temanın C# dosya işlemleri(Ekleme-Silme-Güncelleme-Okuma) olduğu basit b
 
 ### Dosya Yapısı
 <hr>
+
 ![4](https://user-images.githubusercontent.com/77530565/112715941-7cafea00-8ef4-11eb-8a48-fa8d8cd6e6d8.png)
